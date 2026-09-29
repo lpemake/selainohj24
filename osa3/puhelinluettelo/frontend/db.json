@@ -1,0 +1,35 @@
+{
+  "persons": [
+    {
+      "name": "etert",
+      "number": "45353",
+      "id": "_lqkrU2m9EQ"
+    },
+    {
+      "name": "ftytry",
+      "number": "54353",
+      "id": "IVwRy2HXgUg"
+    },
+    {
+      "name": "sdfsdf",
+      "number": "435435",
+      "id": "AcMrG5VbQZ4"
+    },
+    {
+      "name": "35345",
+      "number": "ertre",
+      "id": "CFGjW4VpkLQ"
+    },
+    {
+      "name": "erwr",
+      "number": "wrwe",
+      "id": "Z-F3LPqaj6I"
+    },
+    {
+      "name": "90+",
+      "number": "90+",
+      "id": "7h-n3WlwLZ8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
